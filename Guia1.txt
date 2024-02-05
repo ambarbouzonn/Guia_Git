@@ -1,0 +1,7 @@
+Como subir archivos al GitHub
+
+git add .
+
+git commit -m "Nombre referente"
+
+git push origin master
